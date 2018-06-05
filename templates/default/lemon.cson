@@ -1,0 +1,12 @@
+{
+  name: "Lemon Default App"
+  dev: {
+    port: 3000
+  }
+  prod: {
+    hostname: 'default.lemonjs.org'
+  }
+  deploy: {
+    service: 'github'
+  }
+}

@@ -1,0 +1,12 @@
+{
+  name: "Lemon Tutorial: Clock"
+  dev: {
+    port: 3000
+  }
+  prod: {
+    hostname: 'clock.lemonjs.org'
+  }
+  deploy: {
+    service: 'github'
+  }
+}

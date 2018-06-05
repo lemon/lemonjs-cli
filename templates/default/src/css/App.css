@@ -1,0 +1,19 @@
+
+#app {
+  align-items: center;
+  display: flex;
+  font-family: monospace;
+  font-size: 50px;
+  height: 100vh;
+  justify-content: center;
+  text-align: center;
+}
+
+#app h1 {
+  font-size: 50px;
+}
+
+#app .docs {
+  font-size: 18px;
+  padding: 20px;
+}

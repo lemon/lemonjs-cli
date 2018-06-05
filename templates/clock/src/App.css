@@ -1,0 +1,9 @@
+
+#app {
+  align-items: center;
+  display: flex;
+  font-family: monospace;
+  font-size: 60px;
+  height: 100vh;
+  justify-content: center;
+}
